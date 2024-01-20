@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 ## Education 😄
 - 2023.05 Hello World! 프로그래밍 공부 시작!
-- 인제대학교  재학 중
 
 ## Algorithm study 📫
 
